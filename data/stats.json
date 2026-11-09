@@ -1,0 +1,1220 @@
+{
+ "generated": "2026-10-23T17:07:21.425385+00:00",
+ "duration_sec": 1.1,
+ "scope": "all",
+ "notes": [],
+ "totals": {
+  "documents": 19827,
+  "sources": 38,
+  "words_effective": 31269845,
+  "words_article": 26136245,
+  "words_pdf": 39613795,
+  "distinct_authors": 8732,
+  "author_slots": 30482,
+  "mean_authors_per_doc": 1.54,
+  "documents_without_author": 2019,
+  "first_published": "2022-01-01",
+  "last_published": "2026-06-11"
+ },
+ "length": {
+  "mean": 1577,
+  "median": 987,
+  "p10": 34,
+  "p90": 3658,
+  "p99": 12578,
+  "histogram": [
+   {
+    "from": 0,
+    "to": 1,
+    "count": 110
+   },
+   {
+    "from": 1,
+    "to": 50,
+    "count": 2930
+   },
+   {
+    "from": 50,
+    "to": 100,
+    "count": 590
+   },
+   {
+    "from": 100,
+    "to": 250,
+    "count": 2434
+   },
+   {
+    "from": 250,
+    "to": 500,
+    "count": 1427
+   },
+   {
+    "from": 500,
+    "to": 1000,
+    "count": 2520
+   },
+   {
+    "from": 1000,
+    "to": 2000,
+    "count": 5639
+   },
+   {
+    "from": 2000,
+    "to": 4000,
+    "count": 2522
+   },
+   {
+    "from": 4000,
+    "to": 8000,
+    "count": 1106
+   },
+   {
+    "from": 8000,
+    "to": 16000,
+    "count": 431
+   },
+   {
+    "from": 16000,
+    "to": null,
+    "count": 118
+   }
+  ],
+  "longest": [
+   {
+    "title": "Science and Politics FoundationScience and Politics Foundation Logoswp_logo_en",
+    "url": "https://www.swp-berlin.org/en/publication/europaeische-union-stand-der-integration",
+    "source": "SWP",
+    "words": 74626,
+    "article_words": 74626,
+    "pdf_words": 0,
+    "published_at": "2024-04-23",
+    "publication_group": "SWP-Studie"
+   },
+   {
+    "title": "Rewiring Globalization",
+    "url": "https://carnegieendowment.org/research/2022/02/rewiring-globalization",
+    "source": "Carnegie Europe",
+    "words": 70954,
+    "article_words": 70954,
+    "pdf_words": 0,
+    "published_at": "2022-02-17",
+    "publication_group": "Research"
+   },
+   {
+    "title": "Charting the Radical Right\u2019s Influence on EU Foreign Policy",
+    "url": "https://carnegieendowment.org/research/2024/04/charting-the-radical-rights-influence-on-eu-foreign-policy",
+    "source": "Carnegie Europe",
+    "words": 56868,
+    "article_words": 56868,
+    "pdf_words": 0,
+    "published_at": "2024-04-18",
+    "publication_group": "Research"
+   },
+   {
+    "title": "Science and Politics FoundationScience and Politics Foundation Logoswp_logo_en",
+    "url": "https://www.swp-berlin.org/en/publication/the-tipping-point-an-emerging-model-of-european-security-with-ukraine-and-without-russia",
+    "source": "SWP",
+    "words": 56589,
+    "article_words": 56589,
+    "pdf_words": 0,
+    "published_at": "2025-11-06",
+    "publication_group": "SWP-Research Paper"
+   },
+   {
+    "title": "Science and Politics FoundationScience and Politics Foundation Logoswp_logo_en",
+    "url": "https://www.swp-berlin.org/en/publication/mehr-macht-weniger-markt-denken-und-handeln-in-der-geooekonomischen-zeitenwende",
+    "source": "SWP",
+    "words": 55304,
+    "article_words": 55304,
+    "pdf_words": 0,
+    "published_at": "2025-10-30",
+    "publication_group": "SWP-Studie"
+   },
+   {
+    "title": "Geopolitics and Economic Statecraft in the European Union",
+    "url": "https://carnegieendowment.org/research/2024/11/geopolitics-and-economic-statecraft-in-the-european-union",
+    "source": "Carnegie Europe",
+    "words": 48427,
+    "article_words": 48427,
+    "pdf_words": 0,
+    "published_at": "2024-11-19",
+    "publication_group": "Research"
+   },
+   {
+    "title": "European Defense in A New Age (#EDINA)",
+    "url": "https://dgap.org/en/research/publications/european-defense-new-age-edina",
+    "source": "DGAP",
+    "words": 40043,
+    "article_words": 40043,
+    "pdf_words": 0,
+    "published_at": "2023-11-17",
+    "publication_group": "Report"
+   },
+   {
+    "title": "To u\u017e se nevr\u00e1t\u00ed",
+    "url": "https://www.osw.waw.pl/en/publikacje/osw-studies/2025-05-30/to-uz-se-nevrati",
+    "source": "OSW (Centre for Eastern Studies)",
+    "words": 34737,
+    "article_words": 34737,
+    "pdf_words": 0,
+    "published_at": "2025-05-30",
+    "publication_group": "Reports"
+   },
+   {
+    "title": "The Kremlin\u2019s Loyal Praetorians",
+    "url": "https://www.osw.waw.pl/en/publikacje/point-view/2026-02-27/kremlins-loyal-praetorians",
+    "source": "OSW (Centre for Eastern Studies)",
+    "words": 25163,
+    "article_words": 25163,
+    "pdf_words": 0,
+    "published_at": "2026-02-27",
+    "publication_group": "Reports"
+   },
+   {
+    "title": "Severing the head of the Hydra",
+    "url": "https://www.osw.waw.pl/en/publikacje/point-view/2025-06-30/severing-head-hydra",
+    "source": "OSW (Centre for Eastern Studies)",
+    "words": 20814,
+    "article_words": 20814,
+    "pdf_words": 0,
+    "published_at": "2025-06-30",
+    "publication_group": "Reports"
+   }
+  ],
+  "shortest": [
+   {
+    "title": "The Moldovan parliamentary election: Chi\u0219in\u0103u has dodged the bullet this time, but dangers to democracy remain",
+    "url": "https://www.iss.europa.eu/publications/commentary/moldovan-parliamentary-election-chisinau-has-dodged-bullet-time-dangers",
+    "source": "EUISS",
+    "words": 1,
+    "article_words": 1,
+    "pdf_words": 0,
+    "published_at": "2025-09-29",
+    "publication_group": "Commentary"
+   },
+   {
+    "title": "The U.S. Defense Production Act | Why America needs to do more if it wants to secure a steady supply of critical minerals",
+    "url": "https://hcss.nl/report/us-defense-production-act-supply-critical-minerals",
+    "source": "HCSS",
+    "words": 1,
+    "article_words": 0,
+    "pdf_words": 1,
+    "published_at": "2022-04-14",
+    "publication_group": "All Publications"
+   },
+   {
+    "title": "From Lightning to USB-C: Why the iPhone\u2019s Upcoming Port Change Signals a More Geopolitical EU",
+    "url": "https://hcss.nl/report/lightning-usb-c-iphone-geopolitical-eu",
+    "source": "HCSS",
+    "words": 1,
+    "article_words": 0,
+    "pdf_words": 1,
+    "published_at": "2022-06-02",
+    "publication_group": "All Publications"
+   },
+   {
+    "title": "Seoul\u2019s Changing Indo-Pacific Manifesto and India: Policy Prescriptions for India-ROK Ties",
+    "url": "https://hcss.nl/report/seouls-indo-pacific-manifesto-and-india-policy-prescriptions-for-india-rok-ties",
+    "source": "HCSS",
+    "words": 1,
+    "article_words": 0,
+    "pdf_words": 1,
+    "published_at": "2022-06-23",
+    "publication_group": "All Publications"
+   },
+   {
+    "title": "European Standards of Sanctions Policy: Adaptation of Ukrainian Legislation and Law Enforcement Practice",
+    "url": "https://www.icps.com.ua/en/our-projects/publications/european-standards-of-sanctions-policy-adaptation-of-ukrainian-legislation-and-law-enforcement-practice",
+    "source": "ICPS (International Centre for Policy Studies)",
+    "words": 4,
+    "article_words": 4,
+    "pdf_words": 0,
+    "published_at": "2026-02-01",
+    "publication_group": "Publications"
+   },
+   {
+    "title": "Resignation of deputy prime minister sparks dispute among governing parties",
+    "url": "https://www.kas.de/en/country-reports/detail/-/content/ruecktritt-des-vizepremiers-loest-streit-unter-den-regierungsparteien-aus",
+    "source": "KAS (Konrad Adenauer Stiftung)",
+    "words": 9,
+    "article_words": 9,
+    "pdf_words": 0,
+    "published_at": "2025-11-26",
+    "publication_group": "Country Reports"
+   },
+   {
+    "title": "Nigeria's uncertain economic future",
+    "url": "https://www.kas.de/en/country-reports/detail/-/content/nigeria-s-uncertain-economic-future",
+    "source": "KAS (Konrad Adenauer Stiftung)",
+    "words": 9,
+    "article_words": 9,
+    "pdf_words": 0,
+    "published_at": "2024-05-29",
+    "publication_group": "Country Reports"
+   },
+   {
+    "title": "Development and prospects of Iran's military nuclear program",
+    "url": "https://www.pism.pl/publications/rozwoj-i-perspektywy-wojskowego-programu-nuklearnego-iranu",
+    "source": "PISM",
+    "words": 9,
+    "article_words": 9,
+    "pdf_words": 0,
+    "published_at": "2024-12-20",
+    "publication_group": "Report"
+   },
+   {
+    "title": "China's Expanding Cyber Playbook",
+    "url": "https://dgap.org/en/research/publications/chinas-expanding-cyber-playbook",
+    "source": "DGAP",
+    "words": 11,
+    "article_words": 11,
+    "pdf_words": 0,
+    "published_at": "2025-01-28",
+    "publication_group": "External Publications"
+   },
+   {
+    "title": "Migrating, Adapting in Place or Missing Options? A Systematic Review of Climate Change-Migration Links in Peru",
+    "url": "https://dgap.org/en/research/publications/migrating-adapting-place-or-missing-options-systematic-review-climate-0",
+    "source": "DGAP",
+    "words": 11,
+    "article_words": 11,
+    "pdf_words": 0,
+    "published_at": "2024-09-10",
+    "publication_group": "External Publications"
+   }
+  ],
+  "shortest_real": [
+   {
+    "title": "Undercurrents: China's economic perfect storm",
+    "url": "https://www.chathamhouse.org/2022/06/undercurrents-chinas-economic-perfect-storm",
+    "source": "Chatham House",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 0,
+    "published_at": "2022-06-03",
+    "publication_group": ""
+   },
+   {
+    "title": "Rightsizing Taiwan\u2019s Strategic Value",
+    "url": "https://www.iai.it/en/publications/c03/rightsizing-taiwans-strategic-value",
+    "source": "IAI (Istituto Affari Internazionali)",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 6917,
+    "published_at": "2026-02-11",
+    "publication_group": "IAI Papers"
+   },
+   {
+    "title": "The German Industrial Power in Danger: The Double Shock of Energy Transition and Geopolitical Risk",
+    "url": "https://www.ifri.org/en/papers/german-industrial-power-danger-double-shock-energy-transition-and-geopolitical-risk",
+    "source": "IFRI (Institut fran\u00e7ais des relations internationales)",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 0,
+    "published_at": "2022-07-11",
+    "publication_group": "Papers"
+   },
+   {
+    "title": "Ethics in Peace Negotiations: Key Questions",
+    "url": "https://www.prio.org/publications/14443",
+    "source": "PRIO",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 10023,
+    "published_at": "2025-01-01",
+    "publication_group": "PRIO Papers"
+   },
+   {
+    "title": "Indigenous Peoples in the Renewable Energy Transition: Protest, Contestation, and the Potential of Improved Deliberation",
+    "url": "https://www.prio.org/publications/14003",
+    "source": "PRIO",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 2453,
+    "published_at": "2024-01-01",
+    "publication_group": "Policy Brief"
+   },
+   {
+    "title": "The UN Security Council and women\u2019s full, equal and meaningful participation: Data on invited briefers to council deliberations, 2015\u20132021",
+    "url": "https://www.prio.org/publications/12971",
+    "source": "PRIO",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 2424,
+    "published_at": "2022-01-01",
+    "publication_group": "Policy Brief"
+   },
+   {
+    "title": "Ukraine\u2019s Energy Sector In February 2026",
+    "url": "https://razumkov.org.ua/images/2026/04/18/2025-ENERGY-February-ENGL.pdf",
+    "source": "Razumkov Centre",
+    "words": 100,
+    "article_words": 100,
+    "pdf_words": 7695,
+    "published_at": "2026-04-18",
+    "publication_group": "Analytical Reports and Articles, Policy Papers"
+   },
+   {
+    "title": "Anti-establishment extremism",
+    "url": "https://bezbednost.org/en/publication/anti-establishment-extremism",
+    "source": "BCSP",
+    "words": 101,
+    "article_words": 101,
+    "pdf_words": 1781,
+    "published_at": "2025-05-14",
+    "publication_group": "Glossary"
+   },
+   {
+    "title": "Lessons learned from the implementation of crisis response tools at EU level",
+    "url": "https://www.ceps.eu/ceps-publications/lessons-learned-from-the-implementation-of-crisis-response-tools-at-eu-level-2",
+    "source": "CEPS",
+    "words": 101,
+    "article_words": 101,
+    "pdf_words": 0,
+    "published_at": "2024-12-09",
+    "publication_group": "Commissioned Report"
+   },
+   {
+    "title": "It\u2019s the last chance for an EU finance union",
+    "url": "https://www.ceps.eu/ceps-publications/its-the-last-chance-for-an-eu-finance-union",
+    "source": "CEPS",
+    "words": 101,
+    "article_words": 101,
+    "pdf_words": 845,
+    "published_at": "2025-06-30",
+    "publication_group": "Policy Contribution"
+   }
+  ],
+  "short_doc_threshold": 100
+ },
+ "quality": {
+  "empty_documents": 110,
+  "short_documents": 3520,
+  "no_article_text": 1630,
+  "no_pdf_text": 10724,
+  "imputed_dates": 3145,
+  "broken_titles": 614,
+  "outside_master": 3732
+ },
+ "by_year": {
+  "2022": 4811,
+  "2023": 4787,
+  "2024": 4717,
+  "2025": 4222,
+  "2026": 1290
+ },
+ "by_type": [
+  {
+   "name": "Commentary",
+   "documents": 2531
+  },
+  {
+   "name": "Book",
+   "documents": 2021
+  },
+  {
+   "name": "Analyses",
+   "documents": 1622
+  },
+  {
+   "name": "(none)",
+   "documents": 1386
+  },
+  {
+   "name": "Country Reports",
+   "documents": 755
+  },
+  {
+   "name": "Bulletin",
+   "documents": 745
+  },
+  {
+   "name": "Publication",
+   "documents": 652
+  },
+  {
+   "name": "Policy Brief",
+   "documents": 629
+  },
+  {
+   "name": "Analysis",
+   "documents": 566
+  },
+  {
+   "name": "Spotlight",
+   "documents": 400
+  },
+  {
+   "name": "Online Analysis",
+   "documents": 393
+  },
+  {
+   "name": "All Publications",
+   "documents": 334
+  },
+  {
+   "name": "External Publications",
+   "documents": 321
+  },
+  {
+   "name": "OSW Commentary",
+   "documents": 310
+  },
+  {
+   "name": "IAI Commentaries",
+   "documents": 297
+  },
+  {
+   "name": "Op-Ed",
+   "documents": 257
+  },
+  {
+   "name": "SWP-Aktuell",
+   "documents": 247
+  },
+  {
+   "name": "Policy Briefs",
+   "documents": 238
+  },
+  {
+   "name": "SWP-Comment",
+   "documents": 226
+  },
+  {
+   "name": "Policy Contribution",
+   "documents": 225
+  },
+  {
+   "name": "Blogs",
+   "documents": 194
+  },
+  {
+   "name": "Study",
+   "documents": 185
+  },
+  {
+   "name": "Working Papers",
+   "documents": 170
+  },
+  {
+   "name": "Reports and Papers",
+   "documents": 163
+  },
+  {
+   "name": "Q&A",
+   "documents": 160
+  }
+ ],
+ "top_authors": [
+  {
+   "name": "Piotr \u017bochowski",
+   "documents": 310
+  },
+  {
+   "name": "Andrzej Wilk",
+   "documents": 279
+  },
+  {
+   "name": "Anna Maria Dyner",
+   "documents": 161
+  },
+  {
+   "name": "Bronwen Maddox",
+   "documents": 124
+  },
+  {
+   "name": "Marcin Przychodniak",
+   "documents": 122
+  },
+  {
+   "name": "Mateusz Piotrowski",
+   "documents": 121
+  },
+  {
+   "name": "Tim Sweijs",
+   "documents": 119
+  },
+  {
+   "name": "Patryk Kugiel",
+   "documents": 105
+  },
+  {
+   "name": "Marcin Andrzej Piotrowski",
+   "documents": 103
+  },
+  {
+   "name": "Szymon Zar\u0119ba",
+   "documents": 102
+  },
+  {
+   "name": "Agnieszka Legucka",
+   "documents": 99
+  },
+  {
+   "name": "Wojciech Lorenz",
+   "documents": 96
+  },
+  {
+   "name": "Jacek Taroci\u0144ski",
+   "documents": 89
+  },
+  {
+   "name": "Micha\u0142 Wojnarowicz",
+   "documents": 89
+  },
+  {
+   "name": "Maria Piechowska",
+   "documents": 89
+  },
+  {
+   "name": "Krzysztof Nieczypor",
+   "documents": 84
+  },
+  {
+   "name": "S\u0142awomir Matuszak",
+   "documents": 82
+  },
+  {
+   "name": "Sara Nowacka",
+   "documents": 82
+  },
+  {
+   "name": "Damian Wnukowski",
+   "documents": 80
+  },
+  {
+   "name": "J\u0119drzej Czerep",
+   "documents": 79
+  },
+  {
+   "name": "Aleksandra Kozio\u0142",
+   "documents": 76
+  },
+  {
+   "name": "\u0141ukasz Ma\u015blanka",
+   "documents": 75
+  },
+  {
+   "name": "El\u017cbieta Kaca",
+   "documents": 75
+  },
+  {
+   "name": "Piotr Dzier\u017canowski",
+   "documents": 73
+  },
+  {
+   "name": "Stefania Kolarz",
+   "documents": 71
+  }
+ ],
+ "by_source": [
+  {
+   "name": "FES (Friedrich-Ebert-Stiftung)",
+   "collection": "tanks.FES_(Friedrich-Ebert-Stiftung)",
+   "documents": 2968,
+   "words": 2759701,
+   "mean_words": 930,
+   "median_words": 34,
+   "max_words": 14562,
+   "empty": 0,
+   "short": 2531,
+   "no_article": 609,
+   "no_pdf": 1013,
+   "first": "2022-01-01",
+   "last": "2026-01-01",
+   "imputed_dates": true
+  },
+  {
+   "name": "OSW (Centre for Eastern Studies)",
+   "collection": "tanks.OSW_(Centre_for_Eastern_Studies)",
+   "documents": 1624,
+   "words": 2828364,
+   "mean_words": 1742,
+   "median_words": 1357,
+   "max_words": 34737,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 1624,
+   "first": "2022-01-04",
+   "last": "2026-05-08",
+   "imputed_dates": false
+  },
+  {
+   "name": "Chatham House",
+   "collection": "Chatham_House",
+   "documents": 1386,
+   "words": 1071601,
+   "mean_words": 773,
+   "median_words": 908,
+   "max_words": 4974,
+   "empty": 0,
+   "short": 49,
+   "no_article": 0,
+   "no_pdf": 1372,
+   "first": "2022-01-06",
+   "last": "2025-05-15",
+   "imputed_dates": false
+  },
+  {
+   "name": "ISPI (Istituto per gli Studi di Politica Internazionale)",
+   "collection": "tanks.ISPI_(Istituto_per_gli_Studi_di_Politica_Internazionale)",
+   "documents": 1365,
+   "words": 1785541,
+   "mean_words": 1308,
+   "median_words": 1248,
+   "max_words": 6054,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 1360,
+   "first": "2022-01-05",
+   "last": "2026-05-04",
+   "imputed_dates": false
+  },
+  {
+   "name": "PISM",
+   "collection": "tanks.PISM",
+   "documents": 1232,
+   "words": 1557768,
+   "mean_words": 1264,
+   "median_words": 1274,
+   "max_words": 7341,
+   "empty": 2,
+   "short": 8,
+   "no_article": 6,
+   "no_pdf": 48,
+   "first": "2022-01-03",
+   "last": "2026-05-08",
+   "imputed_dates": false
+  },
+  {
+   "name": "ECFR",
+   "collection": "tanks.ECFR",
+   "documents": 1147,
+   "words": 2379326,
+   "mean_words": 2074,
+   "median_words": 1156,
+   "max_words": 16525,
+   "empty": 0,
+   "short": 1,
+   "no_article": 0,
+   "no_pdf": 820,
+   "first": "2022-01-04",
+   "last": "2026-05-11",
+   "imputed_dates": false
+  },
+  {
+   "name": "KAS (Konrad Adenauer Stiftung)",
+   "collection": "tanks.KAS_(Konrad_Adenauer_Stiftung)",
+   "documents": 971,
+   "words": 1199418,
+   "mean_words": 1235,
+   "median_words": 973,
+   "max_words": 11838,
+   "empty": 0,
+   "short": 44,
+   "no_article": 279,
+   "no_pdf": 31,
+   "first": "2022-01-03",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "DGAP",
+   "collection": "tanks.DGAP",
+   "documents": 824,
+   "words": 1364466,
+   "mean_words": 1656,
+   "median_words": 1246,
+   "max_words": 40043,
+   "empty": 0,
+   "short": 90,
+   "no_article": 38,
+   "no_pdf": 457,
+   "first": "2022-01-03",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "International Crisis Group",
+   "collection": "International_Crisis_Group",
+   "documents": 775,
+   "words": 2416467,
+   "mean_words": 3118,
+   "median_words": 2555,
+   "max_words": 15863,
+   "empty": 0,
+   "short": 9,
+   "no_article": 0,
+   "no_pdf": 597,
+   "first": "2022-01-07",
+   "last": "2026-05-05",
+   "imputed_dates": false
+  },
+  {
+   "name": "International Institute for Strategic Studies",
+   "collection": "International_Institute_for_Strategic_Studies",
+   "documents": 710,
+   "words": 783559,
+   "mean_words": 1104,
+   "median_words": 996,
+   "max_words": 7468,
+   "empty": 0,
+   "short": 10,
+   "no_article": 4,
+   "no_pdf": 710,
+   "first": "2022-01-07",
+   "last": "2026-03-23",
+   "imputed_dates": false
+  },
+  {
+   "name": "SWP",
+   "collection": "tanks.SWP",
+   "documents": 614,
+   "words": 4597148,
+   "mean_words": 7487,
+   "median_words": 4074,
+   "max_words": 74626,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 130,
+   "first": "2022-01-05",
+   "last": "2026-05-05",
+   "imputed_dates": false
+  },
+  {
+   "name": "Clingendael Institute",
+   "collection": "Clingendael_Institute",
+   "documents": 567,
+   "words": 446343,
+   "mean_words": 787,
+   "median_words": 410,
+   "max_words": 14778,
+   "empty": 0,
+   "short": 3,
+   "no_article": 0,
+   "no_pdf": 324,
+   "first": "2022-01-04",
+   "last": "2026-04-02",
+   "imputed_dates": false
+  },
+  {
+   "name": "CIDOB",
+   "collection": "tanks.CIDOB",
+   "documents": 530,
+   "words": 758117,
+   "mean_words": 1430,
+   "median_words": 924,
+   "max_words": 15899,
+   "empty": 0,
+   "short": 20,
+   "no_article": 0,
+   "no_pdf": 112,
+   "first": "2022-01-01",
+   "last": "2026-05-01",
+   "imputed_dates": false
+  },
+  {
+   "name": "IAI (Istituto Affari Internazionali)",
+   "collection": "tanks.IAI_(Istituto_Affari_Internazionali)",
+   "documents": 485,
+   "words": 589990,
+   "mean_words": 1216,
+   "median_words": 1549,
+   "max_words": 5947,
+   "empty": 0,
+   "short": 7,
+   "no_article": 1,
+   "no_pdf": 312,
+   "first": "2022-01-18",
+   "last": "2026-05-11",
+   "imputed_dates": false
+  },
+  {
+   "name": "CEPS",
+   "collection": "tanks.CEPS",
+   "documents": 452,
+   "words": 90749,
+   "mean_words": 201,
+   "median_words": 195,
+   "max_words": 548,
+   "empty": 0,
+   "short": 25,
+   "no_article": 0,
+   "no_pdf": 83,
+   "first": "2022-01-10",
+   "last": "2026-05-08",
+   "imputed_dates": false
+  },
+  {
+   "name": "Elcano",
+   "collection": "tanks.Elcano",
+   "documents": 390,
+   "words": 1074409,
+   "mean_words": 2755,
+   "median_words": 2417,
+   "max_words": 19099,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 215,
+   "first": "2022-01-11",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "Bruegel",
+   "collection": "tanks.Bruegel",
+   "documents": 365,
+   "words": 1095376,
+   "mean_words": 3001,
+   "median_words": 2082,
+   "max_words": 13677,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 16,
+   "first": "2022-01-13",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "IFRI (Institut fran\u00e7ais des relations internationales)",
+   "collection": "tanks.IFRI_(Institut_fran\u00e7ais_des_relations_internationales)",
+   "documents": 353,
+   "words": 163804,
+   "mean_words": 464,
+   "median_words": 81,
+   "max_words": 10814,
+   "empty": 1,
+   "short": 186,
+   "no_article": 24,
+   "no_pdf": 102,
+   "first": "2022-01-18",
+   "last": "2026-05-05",
+   "imputed_dates": false
+  },
+  {
+   "name": "HCSS",
+   "collection": "tanks.HCSS",
+   "documents": 334,
+   "words": 1130980,
+   "mean_words": 3386,
+   "median_words": 2873,
+   "max_words": 12839,
+   "empty": 107,
+   "short": 4,
+   "no_article": 334,
+   "no_pdf": 107,
+   "first": "2022-01-11",
+   "last": "2026-05-06",
+   "imputed_dates": false
+  },
+  {
+   "name": "IRIS",
+   "collection": "tanks.IRIS",
+   "documents": 305,
+   "words": 502377,
+   "mean_words": 1647,
+   "median_words": 12,
+   "max_words": 15993,
+   "empty": 0,
+   "short": 180,
+   "no_article": 305,
+   "no_pdf": 180,
+   "first": "2022-01-05",
+   "last": "2026-05-06",
+   "imputed_dates": false
+  },
+  {
+   "name": "Pulaski",
+   "collection": "tanks.Pulaski",
+   "documents": 266,
+   "words": 462345,
+   "mean_words": 1738,
+   "median_words": 1606,
+   "max_words": 6365,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 161,
+   "first": "2022-01-30",
+   "last": "2026-04-27",
+   "imputed_dates": false
+  },
+  {
+   "name": "DIIS",
+   "collection": "tanks.DIIS",
+   "documents": 246,
+   "words": 271094,
+   "mean_words": 1102,
+   "median_words": 1310,
+   "max_words": 9472,
+   "empty": 0,
+   "short": 12,
+   "no_article": 1,
+   "no_pdf": 86,
+   "first": "2022-01-05",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "Egmont",
+   "collection": "tanks.Egmont",
+   "documents": 234,
+   "words": 237479,
+   "mean_words": 1015,
+   "median_words": 1111,
+   "max_words": 3518,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 164,
+   "first": "2022-01-07",
+   "last": "2026-04-29",
+   "imputed_dates": false
+  },
+  {
+   "name": "EUISS",
+   "collection": "tanks.EUISS",
+   "documents": 232,
+   "words": 83256,
+   "mean_words": 359,
+   "median_words": 55,
+   "max_words": 5512,
+   "empty": 0,
+   "short": 193,
+   "no_article": 19,
+   "no_pdf": 110,
+   "first": "2022-01-19",
+   "last": "2026-05-06",
+   "imputed_dates": false
+  },
+  {
+   "name": "Europeum",
+   "collection": "tanks.Europeum",
+   "documents": 229,
+   "words": 53894,
+   "mean_words": 235,
+   "median_words": 210,
+   "max_words": 1560,
+   "empty": 0,
+   "short": 3,
+   "no_article": 0,
+   "no_pdf": 13,
+   "first": "2022-01-11",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "HIIA",
+   "collection": "HIIA",
+   "documents": 193,
+   "words": 219613,
+   "mean_words": 1138,
+   "median_words": 202,
+   "max_words": 8441,
+   "empty": 0,
+   "short": 16,
+   "no_article": 0,
+   "no_pdf": 193,
+   "first": "2022-01-12",
+   "last": "2026-05-14",
+   "imputed_dates": false
+  },
+  {
+   "name": "FIIA (Finnish Institute of International Affairs)",
+   "collection": "tanks.FIIA_(Finnish_Institute_of_International_Affairs)",
+   "documents": 186,
+   "words": 45896,
+   "mean_words": 247,
+   "median_words": 164,
+   "max_words": 1677,
+   "empty": 0,
+   "short": 36,
+   "no_article": 1,
+   "no_pdf": 71,
+   "first": "2022-01-05",
+   "last": "2026-05-08",
+   "imputed_dates": false
+  },
+  {
+   "name": "PRIO",
+   "collection": "tanks.PRIO",
+   "documents": 177,
+   "words": 20104,
+   "mean_words": 114,
+   "median_words": 108,
+   "max_words": 285,
+   "empty": 0,
+   "short": 63,
+   "no_article": 0,
+   "no_pdf": 12,
+   "first": "2022-01-01",
+   "last": "2026-06-11",
+   "imputed_dates": true
+  },
+  {
+   "name": "SIPRI",
+   "collection": "tanks.SIPRI",
+   "documents": 117,
+   "words": 191431,
+   "mean_words": 1636,
+   "median_words": 1560,
+   "max_words": 3161,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 68,
+   "first": "2022-01-21",
+   "last": "2026-04-29",
+   "imputed_dates": false
+  },
+  {
+   "name": "Carnegie Europe",
+   "collection": "tanks.Carnegie_Europe",
+   "documents": 112,
+   "words": 827004,
+   "mean_words": 7384,
+   "median_words": 4271,
+   "max_words": 70954,
+   "empty": 0,
+   "short": 0,
+   "no_article": 0,
+   "no_pdf": 94,
+   "first": "2022-01-24",
+   "last": "2026-05-04",
+   "imputed_dates": false
+  },
+  {
+   "name": "GLOBSEC Policy Institute",
+   "collection": "GLOBSEC_Policy_Institute",
+   "documents": 101,
+   "words": 52952,
+   "mean_words": 524,
+   "median_words": 365,
+   "max_words": 3842,
+   "empty": 0,
+   "short": 2,
+   "no_article": 0,
+   "no_pdf": 47,
+   "first": "2022-05-15",
+   "last": "2025-03-10",
+   "imputed_dates": false
+  },
+  {
+   "name": "BCSP",
+   "collection": "tanks.BCSP",
+   "documents": 96,
+   "words": 41676,
+   "mean_words": 434,
+   "median_words": 334,
+   "max_words": 1743,
+   "empty": 0,
+   "short": 0,
+   "no_article": 1,
+   "no_pdf": 15,
+   "first": "2022-01-11",
+   "last": "2026-04-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "Transparency International",
+   "collection": "tanks.Transparency_International",
+   "documents": 70,
+   "words": 31533,
+   "mean_words": 450,
+   "median_words": 203,
+   "max_words": 7115,
+   "empty": 0,
+   "short": 3,
+   "no_article": 2,
+   "no_pdf": 36,
+   "first": "2022-01-25",
+   "last": "2026-05-07",
+   "imputed_dates": false
+  },
+  {
+   "name": "IIR Czech",
+   "collection": "tanks.IIR_Czech",
+   "documents": 57,
+   "words": 89797,
+   "mean_words": 1575,
+   "median_words": 1518,
+   "max_words": 6354,
+   "empty": 0,
+   "short": 1,
+   "no_article": 0,
+   "no_pdf": 14,
+   "first": "2022-02-07",
+   "last": "2026-03-23",
+   "imputed_dates": false
+  },
+  {
+   "name": "Razumkov Centre",
+   "collection": "tanks.Razumkov_Centre",
+   "documents": 45,
+   "words": 8355,
+   "mean_words": 186,
+   "median_words": 118,
+   "max_words": 3057,
+   "empty": 0,
+   "short": 14,
+   "no_article": 1,
+   "no_pdf": 3,
+   "first": "2022-08-22",
+   "last": "2026-04-28",
+   "imputed_dates": false
+  },
+  {
+   "name": "PSSI (Prague Security Studies Institute)",
+   "collection": "tanks.PSSI_(Prague_Security_Studies_Institute)",
+   "documents": 29,
+   "words": 7909,
+   "mean_words": 273,
+   "median_words": 248,
+   "max_words": 609,
+   "empty": 0,
+   "short": 6,
+   "no_article": 0,
+   "no_pdf": 2,
+   "first": "2022-01-28",
+   "last": "2026-03-15",
+   "imputed_dates": false
+  },
+  {
+   "name": "SFPA",
+   "collection": "tanks.SFPA",
+   "documents": 29,
+   "words": 5533,
+   "mean_words": 191,
+   "median_words": 182,
+   "max_words": 375,
+   "empty": 0,
+   "short": 3,
+   "no_article": 0,
+   "no_pdf": 15,
+   "first": "2022-06-15",
+   "last": "2025-06-15",
+   "imputed_dates": false
+  },
+  {
+   "name": "ICPS (International Centre for Policy Studies)",
+   "collection": "tanks.ICPS_(International_Centre_for_Policy_Studies)",
+   "documents": 11,
+   "words": 24470,
+   "mean_words": 2225,
+   "median_words": 399,
+   "max_words": 11295,
+   "empty": 0,
+   "short": 1,
+   "no_article": 5,
+   "no_pdf": 7,
+   "first": "2022-01-27",
+   "last": "2026-02-06",
+   "imputed_dates": false
+  }
+ ]
+}

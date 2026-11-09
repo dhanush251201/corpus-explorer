@@ -1,0 +1,1190 @@
+{
+ "institutions": [
+  {
+   "collection": "tanks.FES_(Friedrich-Ebert-Stiftung)",
+   "name": "FES (Friedrich-Ebert-Stiftung)",
+   "docs": 2968,
+   "in_master": true,
+   "article_pct": 0.4,
+   "pdf_pct": 65.9,
+   "on_topic": 155,
+   "on_topic_pct": 5.22,
+   "first": "2022-01",
+   "last": "2026-01"
+  },
+  {
+   "collection": "tanks.OSW_(Centre_for_Eastern_Studies)",
+   "name": "OSW (Centre for Eastern Studies)",
+   "docs": 1624,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 0.0,
+   "on_topic": 56,
+   "on_topic_pct": 3.45,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "Chatham_House",
+   "name": "Chatham House",
+   "docs": 1386,
+   "in_master": false,
+   "article_pct": 99.4,
+   "pdf_pct": 1.0,
+   "on_topic": 41,
+   "on_topic_pct": 2.96,
+   "first": "2022-01",
+   "last": "2025-05"
+  },
+  {
+   "collection": "tanks.ISPI_(Istituto_per_gli_Studi_di_Politica_Internazionale)",
+   "name": "ISPI (Istituto per gli Studi di Politica Internazionale)",
+   "docs": 1365,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 0.4,
+   "on_topic": 127,
+   "on_topic_pct": 9.3,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.PISM",
+   "name": "PISM",
+   "docs": 1232,
+   "in_master": true,
+   "article_pct": 99.4,
+   "pdf_pct": 96.1,
+   "on_topic": 87,
+   "on_topic_pct": 7.06,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.ECFR",
+   "name": "ECFR",
+   "docs": 1147,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 28.5,
+   "on_topic": 198,
+   "on_topic_pct": 17.26,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.KAS_(Konrad_Adenauer_Stiftung)",
+   "name": "KAS (Konrad Adenauer Stiftung)",
+   "docs": 971,
+   "in_master": true,
+   "article_pct": 68.6,
+   "pdf_pct": 96.8,
+   "on_topic": 45,
+   "on_topic_pct": 4.63,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.DGAP",
+   "name": "DGAP",
+   "docs": 824,
+   "in_master": true,
+   "article_pct": 86.4,
+   "pdf_pct": 44.5,
+   "on_topic": 162,
+   "on_topic_pct": 19.66,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "International_Crisis_Group",
+   "name": "International Crisis Group",
+   "docs": 775,
+   "in_master": false,
+   "article_pct": 99.1,
+   "pdf_pct": 23.0,
+   "on_topic": 7,
+   "on_topic_pct": 0.9,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "International_Institute_for_Strategic_Studies",
+   "name": "International Institute for Strategic Studies",
+   "docs": 710,
+   "in_master": false,
+   "article_pct": 98.9,
+   "pdf_pct": 0.0,
+   "on_topic": 33,
+   "on_topic_pct": 4.65,
+   "first": "2022-01",
+   "last": "2026-03"
+  },
+  {
+   "collection": "tanks.SWP",
+   "name": "SWP",
+   "docs": 614,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 78.8,
+   "on_topic": 123,
+   "on_topic_pct": 20.03,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "Clingendael_Institute",
+   "name": "Clingendael Institute",
+   "docs": 567,
+   "in_master": false,
+   "article_pct": 100.0,
+   "pdf_pct": 42.9,
+   "on_topic": 125,
+   "on_topic_pct": 22.05,
+   "first": "2022-01",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.CIDOB",
+   "name": "CIDOB",
+   "docs": 530,
+   "in_master": true,
+   "article_pct": 98.9,
+   "pdf_pct": 78.9,
+   "on_topic": 68,
+   "on_topic_pct": 12.83,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.IAI_(Istituto_Affari_Internazionali)",
+   "name": "IAI (Istituto Affari Internazionali)",
+   "docs": 485,
+   "in_master": true,
+   "article_pct": 99.6,
+   "pdf_pct": 35.7,
+   "on_topic": 112,
+   "on_topic_pct": 23.09,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.CEPS",
+   "name": "CEPS",
+   "docs": 452,
+   "in_master": true,
+   "article_pct": 97.3,
+   "pdf_pct": 81.6,
+   "on_topic": 62,
+   "on_topic_pct": 13.72,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.Elcano",
+   "name": "Elcano",
+   "docs": 390,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 44.9,
+   "on_topic": 100,
+   "on_topic_pct": 25.64,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.Bruegel",
+   "name": "Bruegel",
+   "docs": 365,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 95.6,
+   "on_topic": 59,
+   "on_topic_pct": 16.16,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.IFRI_(Institut_fran\u00e7ais_des_relations_internationales)",
+   "name": "IFRI (Institut fran\u00e7ais des relations internationales)",
+   "docs": 353,
+   "in_master": true,
+   "article_pct": 46.5,
+   "pdf_pct": 71.1,
+   "on_topic": 74,
+   "on_topic_pct": 20.96,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.HCSS",
+   "name": "HCSS",
+   "docs": 334,
+   "in_master": true,
+   "article_pct": 0.0,
+   "pdf_pct": 68.0,
+   "on_topic": 51,
+   "on_topic_pct": 15.27,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.IRIS",
+   "name": "IRIS",
+   "docs": 305,
+   "in_master": true,
+   "article_pct": 0.0,
+   "pdf_pct": 41.0,
+   "on_topic": 54,
+   "on_topic_pct": 17.7,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.Pulaski",
+   "name": "Pulaski",
+   "docs": 266,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 39.5,
+   "on_topic": 20,
+   "on_topic_pct": 7.52,
+   "first": "2022-01",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.DIIS",
+   "name": "DIIS",
+   "docs": 246,
+   "in_master": true,
+   "article_pct": 97.6,
+   "pdf_pct": 65.0,
+   "on_topic": 14,
+   "on_topic_pct": 5.69,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.Egmont",
+   "name": "Egmont",
+   "docs": 234,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 29.9,
+   "on_topic": 50,
+   "on_topic_pct": 21.37,
+   "first": "2022-01",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.EUISS",
+   "name": "EUISS",
+   "docs": 232,
+   "in_master": true,
+   "article_pct": 10.8,
+   "pdf_pct": 52.6,
+   "on_topic": 33,
+   "on_topic_pct": 14.22,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.Europeum",
+   "name": "Europeum",
+   "docs": 229,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 94.3,
+   "on_topic": 35,
+   "on_topic_pct": 15.28,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "HIIA",
+   "name": "HIIA",
+   "docs": 193,
+   "in_master": false,
+   "article_pct": 100.0,
+   "pdf_pct": 0.0,
+   "on_topic": 18,
+   "on_topic_pct": 9.33,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.FIIA_(Finnish_Institute_of_International_Affairs)",
+   "name": "FIIA (Finnish Institute of International Affairs)",
+   "docs": 186,
+   "in_master": true,
+   "article_pct": 81.2,
+   "pdf_pct": 61.8,
+   "on_topic": 36,
+   "on_topic_pct": 19.35,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.PRIO",
+   "name": "PRIO",
+   "docs": 177,
+   "in_master": true,
+   "article_pct": 89.3,
+   "pdf_pct": 93.2,
+   "on_topic": 9,
+   "on_topic_pct": 5.08,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.SIPRI",
+   "name": "SIPRI",
+   "docs": 117,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 41.9,
+   "on_topic": 7,
+   "on_topic_pct": 5.98,
+   "first": "2022-01",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.Carnegie_Europe",
+   "name": "Carnegie Europe",
+   "docs": 112,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 16.1,
+   "on_topic": 24,
+   "on_topic_pct": 21.43,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "GLOBSEC_Policy_Institute",
+   "name": "GLOBSEC Policy Institute",
+   "docs": 101,
+   "in_master": false,
+   "article_pct": 99.0,
+   "pdf_pct": 53.5,
+   "on_topic": 7,
+   "on_topic_pct": 6.93,
+   "first": "2022-05",
+   "last": "2025-03"
+  },
+  {
+   "collection": "tanks.BCSP",
+   "name": "BCSP",
+   "docs": 96,
+   "in_master": true,
+   "article_pct": 99.0,
+   "pdf_pct": 84.4,
+   "on_topic": 1,
+   "on_topic_pct": 1.04,
+   "first": "2022-01",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.Transparency_International",
+   "name": "Transparency International",
+   "docs": 70,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 48.6,
+   "on_topic": 0,
+   "on_topic_pct": 0,
+   "first": "2022-01",
+   "last": "2026-05"
+  },
+  {
+   "collection": "tanks.IIR_Czech",
+   "name": "IIR Czech",
+   "docs": 57,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 75.4,
+   "on_topic": 8,
+   "on_topic_pct": 14.04,
+   "first": "2022-02",
+   "last": "2026-03"
+  },
+  {
+   "collection": "tanks.Razumkov_Centre",
+   "name": "Razumkov Centre",
+   "docs": 45,
+   "in_master": true,
+   "article_pct": 82.2,
+   "pdf_pct": 93.3,
+   "on_topic": 8,
+   "on_topic_pct": 17.78,
+   "first": "2022-08",
+   "last": "2026-04"
+  },
+  {
+   "collection": "tanks.PSSI_(Prague_Security_Studies_Institute)",
+   "name": "PSSI (Prague Security Studies Institute)",
+   "docs": 29,
+   "in_master": true,
+   "article_pct": 93.1,
+   "pdf_pct": 93.1,
+   "on_topic": 5,
+   "on_topic_pct": 17.24,
+   "first": "2022-01",
+   "last": "2026-03"
+  },
+  {
+   "collection": "tanks.SFPA",
+   "name": "SFPA",
+   "docs": 29,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 48.3,
+   "on_topic": 4,
+   "on_topic_pct": 13.79,
+   "first": "2022-06",
+   "last": "2025-06"
+  },
+  {
+   "collection": "tanks.ICPS_(International_Centre_for_Policy_Studies)",
+   "name": "ICPS (International Centre for Policy Studies)",
+   "docs": 11,
+   "in_master": true,
+   "article_pct": 54.5,
+   "pdf_pct": 36.4,
+   "on_topic": 1,
+   "on_topic_pct": 9.09,
+   "first": "2022-01",
+   "last": "2026-02"
+  }
+ ],
+ "boilerplate": {
+  "International Institute for Strategic Studies": [
+   "was first published on the",
+   "first published on the military"
+  ],
+  "Bruegel": [
+   "share share this page: bluesky",
+   "share this page: bluesky linkedin",
+   "this page: bluesky linkedin email",
+   "page: bluesky linkedin email download",
+   "bluesky linkedin email download as",
+   "linkedin email download as pdf",
+   "email download as pdf chapters",
+   "copy to clipboard share share",
+   "to clipboard share share this",
+   "clipboard share share this page:",
+   "download as pdf chapters executive",
+   "as pdf chapters executive summary"
+  ],
+  "Carnegie Europe": [
+   "program europe the europe program",
+   "europe the europe program in",
+   "the europe program in washington",
+   "europe program in washington explores",
+   "program in washington explores the",
+   "in washington explores the political",
+   "washington explores the political and",
+   "explores the political and security",
+   "the political and security developments",
+   "political and security developments within",
+   "and security developments within europe,",
+   "security developments within europe, transatlantic"
+  ],
+  "Egmont": [
+   ", eu and strategic partners",
+   "eu and strategic partners ,",
+   ", eu strategy and foreign",
+   "eu strategy and foreign policy",
+   "strategy and foreign policy ,",
+   "and strategic partners , eu",
+   ", europe in the world",
+   "europe in the world ,",
+   "strategic partners , eu strategy",
+   "partners , eu strategy and",
+   "in commentaries , eu and",
+   "commentaries , eu and strategic"
+  ],
+  "Europeum": [
+   "\u203a articles and publications \u203a",
+   "home \u203a archive \u203a articles",
+   "\u203a archive \u203a articles and",
+   "archive \u203a articles and publications",
+   "articles and publications \u203a policy",
+   "and publications \u203a policy paper",
+   "publications \u203a policy paper |",
+   "articles and publications \u203a report",
+   "and publications \u203a report |",
+   "articles and publications \u203a blog",
+   "and publications \u203a blog |"
+  ],
+  "IRIS": [
+   "to discover america at 250.",
+   "discover america at 250. at",
+   "america at 250. at home",
+   "at 250. at home and",
+   "250. at home and beyond",
+   "at home and beyond romuald",
+   "home and beyond romuald sciora,",
+   "and beyond romuald sciora, robert",
+   "beyond romuald sciora, robert y.",
+   "romuald sciora, robert y. shapiro"
+  ],
+  "ISPI (Istituto per gli Studi di Politica Internazionale)": [
+   "middle east and north africa"
+  ],
+  "KAS (Konrad Adenauer Stiftung)": [
+   "is only available in german."
+  ],
+  "PSSI (Prague Security Studies Institute)": [
+   "elections to the chamber of",
+   "to the chamber of deputies",
+   "the elections to the chamber",
+   "prague security studies institute /",
+   "the prague security studies institute",
+   "prague security studies institute (pssi)",
+   "the online debate on the",
+   "monitoring of the online debate",
+   "of the online debate on",
+   "online debate on the elections",
+   "debate on the elections to",
+   "on the elections to the"
+  ],
+  "Pulaski": [
+   "war in ukraine \u2013 weekly",
+   "in ukraine \u2013 weekly update",
+   "autor foto: domena publiczna pulaski"
+  ],
+  "Razumkov Centre": [
+   "this publication has been made",
+   "publication has been made within",
+   "has been made within the",
+   "of the matra programme supported",
+   "the matra programme supported by",
+   "matra programme supported by the",
+   "programme supported by the embassy",
+   "supported by the embassy of",
+   "by the embassy of the",
+   "the embassy of the kingdom",
+   "embassy of the kingdom of",
+   "of the kingdom of the"
+  ],
+  "SFPA": [
+   "sk en home > publications",
+   "en home > publications >",
+   "yearbook of slovakia\u2019s foreign policy"
+  ]
+ },
+ "genres": [
+  {
+   "name": "Commentary",
+   "docs": 2531,
+   "institutions": 5
+  },
+  {
+   "name": "Book",
+   "docs": 2021,
+   "institutions": 1
+  },
+  {
+   "name": "Analyses",
+   "docs": 1622,
+   "institutions": 3
+  },
+  {
+   "name": "(none)",
+   "docs": 1386,
+   "institutions": 1
+  },
+  {
+   "name": "Country Reports",
+   "docs": 755,
+   "institutions": 1
+  },
+  {
+   "name": "Bulletin",
+   "docs": 745,
+   "institutions": 1
+  },
+  {
+   "name": "Publication",
+   "docs": 652,
+   "institutions": 4
+  },
+  {
+   "name": "Policy Brief",
+   "docs": 629,
+   "institutions": 6
+  },
+  {
+   "name": "Analysis",
+   "docs": 566,
+   "institutions": 6
+  },
+  {
+   "name": "Spotlight",
+   "docs": 400,
+   "institutions": 1
+  },
+  {
+   "name": "Online Analysis",
+   "docs": 393,
+   "institutions": 1
+  },
+  {
+   "name": "All Publications",
+   "docs": 334,
+   "institutions": 1
+  },
+  {
+   "name": "External Publications",
+   "docs": 321,
+   "institutions": 1
+  },
+  {
+   "name": "OSW Commentary",
+   "docs": 310,
+   "institutions": 1
+  },
+  {
+   "name": "IAI Commentaries",
+   "docs": 297,
+   "institutions": 1
+  },
+  {
+   "name": "Op-Ed",
+   "docs": 257,
+   "institutions": 2
+  },
+  {
+   "name": "SWP-Aktuell",
+   "docs": 247,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Briefs",
+   "docs": 238,
+   "institutions": 2
+  },
+  {
+   "name": "SWP-Comment",
+   "docs": 226,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Contribution",
+   "docs": 225,
+   "institutions": 1
+  },
+  {
+   "name": "Blogs",
+   "docs": 194,
+   "institutions": 1
+  },
+  {
+   "name": "Study",
+   "docs": 185,
+   "institutions": 2
+  },
+  {
+   "name": "Working Papers",
+   "docs": 170,
+   "institutions": 3
+  },
+  {
+   "name": "Reports and Papers",
+   "docs": 163,
+   "institutions": 1
+  },
+  {
+   "name": "Q&A",
+   "docs": 160,
+   "institutions": 1
+  },
+  {
+   "name": "Notes",
+   "docs": 159,
+   "institutions": 1
+  },
+  {
+   "name": "Report",
+   "docs": 153,
+   "institutions": 4
+  },
+  {
+   "name": "Article",
+   "docs": 151,
+   "institutions": 1
+  },
+  {
+   "name": "Expert Comments",
+   "docs": 150,
+   "institutions": 1
+  },
+  {
+   "name": "Papers",
+   "docs": 144,
+   "institutions": 2
+  },
+  {
+   "name": "Dossier",
+   "docs": 143,
+   "institutions": 1
+  },
+  {
+   "name": "Pulaski Commentary",
+   "docs": 140,
+   "institutions": 1
+  },
+  {
+   "name": "Memo",
+   "docs": 135,
+   "institutions": 1
+  },
+  {
+   "name": "Commissioned Report",
+   "docs": 134,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Alert",
+   "docs": 131,
+   "institutions": 1
+  },
+  {
+   "name": "Impuls",
+   "docs": 131,
+   "institutions": 1
+  },
+  {
+   "name": "Monitor",
+   "docs": 129,
+   "institutions": 1
+  },
+  {
+   "name": "IAI Papers",
+   "docs": 126,
+   "institutions": 1
+  },
+  {
+   "name": "Strategic Comments",
+   "docs": 123,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Paper",
+   "docs": 108,
+   "institutions": 3
+  },
+  {
+   "name": "FIIA Briefing Paper",
+   "docs": 108,
+   "institutions": 1
+  },
+  {
+   "name": "Studies",
+   "docs": 105,
+   "institutions": 1
+  },
+  {
+   "name": "HIIA Analyses",
+   "docs": 104,
+   "institutions": 1
+  },
+  {
+   "name": "Perspective",
+   "docs": 104,
+   "institutions": 1
+  },
+  {
+   "name": "Memos",
+   "docs": 103,
+   "institutions": 1
+  },
+  {
+   "name": "Pulaski Policy Paper",
+   "docs": 101,
+   "institutions": 1
+  },
+  {
+   "name": "Brief",
+   "docs": 98,
+   "institutions": 1
+  },
+  {
+   "name": "Project Report",
+   "docs": 93,
+   "institutions": 1
+  },
+  {
+   "name": "HIIA Perspective",
+   "docs": 89,
+   "institutions": 1
+  },
+  {
+   "name": "Facts and Findings",
+   "docs": 87,
+   "institutions": 1
+  },
+  {
+   "name": "SWP-Studie",
+   "docs": 83,
+   "institutions": 1
+  },
+  {
+   "name": "Briefing",
+   "docs": 81,
+   "institutions": 1
+  },
+  {
+   "name": "Reports",
+   "docs": 77,
+   "institutions": 3
+  },
+  {
+   "name": "Articles",
+   "docs": 75,
+   "institutions": 1
+  },
+  {
+   "name": "Periodical",
+   "docs": 72,
+   "institutions": 1
+  },
+  {
+   "name": "Statement",
+   "docs": 70,
+   "institutions": 1
+  },
+  {
+   "name": "IPQ",
+   "docs": 68,
+   "institutions": 1
+  },
+  {
+   "name": "Documenti IAI",
+   "docs": 62,
+   "institutions": 1
+  },
+  {
+   "name": "Alerts",
+   "docs": 61,
+   "institutions": 1
+  },
+  {
+   "name": "Blog",
+   "docs": 61,
+   "institutions": 2
+  },
+  {
+   "name": "IP",
+   "docs": 59,
+   "institutions": 1
+  },
+  {
+   "name": "SWP-Research Paper",
+   "docs": 58,
+   "institutions": 1
+  },
+  {
+   "name": "FIIA Comment",
+   "docs": 57,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Publications",
+   "docs": 57,
+   "institutions": 1
+  },
+  {
+   "name": "WritePeace Blog",
+   "docs": 48,
+   "institutions": 1
+  },
+  {
+   "name": "Centre for Democracy & Resilience",
+   "docs": 46,
+   "institutions": 1
+  },
+  {
+   "name": "Analytical Reports and Articles, Policy Papers",
+   "docs": 45,
+   "institutions": 1
+  },
+  {
+   "name": "Topical Backgrounder",
+   "docs": 44,
+   "institutions": 1
+  },
+  {
+   "name": "Comments",
+   "docs": 42,
+   "institutions": 1
+  },
+  {
+   "name": "Berlin Cable",
+   "docs": 39,
+   "institutions": 1
+  },
+  {
+   "name": "PRIO Papers",
+   "docs": 38,
+   "institutions": 1
+  },
+  {
+   "name": "European Policy Brief",
+   "docs": 37,
+   "institutions": 1
+  },
+  {
+   "name": "Strategic File",
+   "docs": 36,
+   "institutions": 1
+  },
+  {
+   "name": "Multimedia",
+   "docs": 35,
+   "institutions": 1
+  },
+  {
+   "name": "Analyst's Notebook",
+   "docs": 34,
+   "institutions": 1
+  },
+  {
+   "name": "IP Special",
+   "docs": 34,
+   "institutions": 1
+  },
+  {
+   "name": "Editorials",
+   "docs": 25,
+   "institutions": 1
+  },
+  {
+   "name": "Pulaski Report",
+   "docs": 25,
+   "institutions": 1
+  },
+  {
+   "name": "Essay",
+   "docs": 24,
+   "institutions": 1
+  },
+  {
+   "name": "Egmont Paper",
+   "docs": 22,
+   "institutions": 1
+  },
+  {
+   "name": "Policy Papers",
+   "docs": 21,
+   "institutions": 1
+  },
+  {
+   "name": "Cover Section",
+   "docs": 17,
+   "institutions": 1
+  },
+  {
+   "name": "Chaillot Paper",
+   "docs": 17,
+   "institutions": 1
+  },
+  {
+   "name": "FIIA Report",
+   "docs": 16,
+   "institutions": 1
+  },
+  {
+   "name": "Working study",
+   "docs": 14,
+   "institutions": 1
+  },
+  {
+   "name": "PRIO Reports",
+   "docs": 14,
+   "institutions": 1
+  },
+  {
+   "name": "Research",
+   "docs": 13,
+   "institutions": 1
+  },
+  {
+   "name": "Economic & Financial Statecraft Program",
+   "docs": 12,
+   "institutions": 1
+  },
+  {
+   "name": "Information Resilience Program",
+   "docs": 12,
+   "institutions": 1
+  },
+  {
+   "name": "Info",
+   "docs": 10,
+   "institutions": 1
+  },
+  {
+   "name": "Centre for Global Europe",
+   "docs": 9,
+   "institutions": 1
+  },
+  {
+   "name": "Other",
+   "docs": 9,
+   "institutions": 1
+  },
+  {
+   "name": "Future of Security",
+   "docs": 8,
+   "institutions": 1
+  },
+  {
+   "name": "Unknown",
+   "docs": 7,
+   "institutions": 1
+  },
+  {
+   "name": "Economy & Business",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Economic Growth and Sustainability",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Research report",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Policy brief",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "FIIA Research Paper",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Foreign Policy",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Publications",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Space Security Program",
+   "docs": 5,
+   "institutions": 1
+  },
+  {
+   "name": "Podcast",
+   "docs": 3,
+   "institutions": 1
+  },
+  {
+   "name": "Cybersecurity",
+   "docs": 3,
+   "institutions": 1
+  },
+  {
+   "name": "Glossary",
+   "docs": 3,
+   "institutions": 1
+  },
+  {
+   "name": "Policy paper",
+   "docs": 2,
+   "institutions": 1
+  },
+  {
+   "name": "Danube Tech Valley",
+   "docs": 1,
+   "institutions": 1
+  },
+  {
+   "name": "Ukraine and Eastern Europe Programme",
+   "docs": 1,
+   "institutions": 1
+  },
+  {
+   "name": "Position Paper",
+   "docs": 1,
+   "institutions": 1
+  },
+  {
+   "name": "Fokus",
+   "docs": 1,
+   "institutions": 1
+  },
+  {
+   "name": "Internal Policy",
+   "docs": 1,
+   "institutions": 1
+  },
+  {
+   "name": "Expert Comment",
+   "docs": 1,
+   "institutions": 1
+  }
+ ],
+ "coverage_months": {
+  "first": "2022-01",
+  "last": "2026-06",
+  "count": 54
+ },
+ "stopped_early": {
+  "FES (Friedrich-Ebert-Stiftung)": {
+   "last_month": "2026-01",
+   "months_behind": 5
+  },
+  "Chatham House": {
+   "last_month": "2025-05",
+   "months_behind": 13
+  },
+  "International Institute for Strategic Studies": {
+   "last_month": "2026-03",
+   "months_behind": 3
+  },
+  "GLOBSEC Policy Institute": {
+   "last_month": "2025-03",
+   "months_behind": 15
+  },
+  "IIR Czech": {
+   "last_month": "2026-03",
+   "months_behind": 3
+  },
+  "PSSI (Prague Security Studies Institute)": {
+   "last_month": "2026-03",
+   "months_behind": 3
+  },
+  "SFPA": {
+   "last_month": "2025-06",
+   "months_behind": 12
+  },
+  "ICPS (International Centre for Policy Studies)": {
+   "last_month": "2026-02",
+   "months_behind": 4
+  }
+ },
+ "docs_by_year": {
+  "2022": 3888,
+  "2023": 3852,
+  "2024": 3702,
+  "2025": 3547,
+  "2026": 1106
+ },
+ "totals": {
+  "master": 16095,
+  "union": 19827,
+  "institutions": 38
+ }
+}

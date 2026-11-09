@@ -1,0 +1,170 @@
+{
+ "institutions": [
+  {
+   "collection": "tanks.ECFR",
+   "name": "ECFR",
+   "docs": 1147,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 198,
+   "on_topic_pct": 17.3,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.Elcano",
+   "name": "Elcano",
+   "docs": 390,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 99,
+   "on_topic_pct": 25.6,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "Clingendael_Institute",
+   "name": "Clingendael Institute",
+   "docs": 567,
+   "in_master": false,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 124,
+   "on_topic_pct": 22.0,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.FES_(Friedrich-Ebert-Stiftung)",
+   "name": "FES (Friedrich-Ebert-Stiftung)",
+   "docs": 2968,
+   "in_master": true,
+   "article_pct": 0.4,
+   "pdf_pct": 65.9,
+   "on_topic": 154,
+   "on_topic_pct": 5.2,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.SWP",
+   "name": "SWP",
+   "docs": 614,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 122,
+   "on_topic_pct": 20.0,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.OSW_(Centre_for_Eastern_Studies)",
+   "name": "OSW (Centre for Eastern Studies)",
+   "docs": 1624,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 55,
+   "on_topic_pct": 3.4,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "Chatham_House",
+   "name": "Chatham House",
+   "docs": 1386,
+   "in_master": false,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 41,
+   "on_topic_pct": 3.0,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.PISM",
+   "name": "PISM",
+   "docs": 1232,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 87,
+   "on_topic_pct": 7.1,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.ISPI",
+   "name": "ISPI",
+   "docs": 1365,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 126,
+   "on_topic_pct": 9.3,
+   "first": "2022-01",
+   "last": "2026-06"
+  },
+  {
+   "collection": "tanks.Bruegel",
+   "name": "Bruegel",
+   "docs": 365,
+   "in_master": true,
+   "article_pct": 100.0,
+   "pdf_pct": 30.0,
+   "on_topic": 59,
+   "on_topic_pct": 16.2,
+   "first": "2022-01",
+   "last": "2026-06"
+  }
+ ],
+ "boilerplate": {
+  "Bruegel": [
+   "share share this page: bluesky"
+  ],
+  "ISPI": [
+   "home publications"
+  ]
+ },
+ "genres": [
+  {
+   "name": "Commentary",
+   "docs": 2531,
+   "institutions": 5
+  },
+  {
+   "name": "Policy Brief",
+   "docs": 629,
+   "institutions": 6
+  },
+  {
+   "name": "Analysis",
+   "docs": 566,
+   "institutions": 6
+  },
+  {
+   "name": "Book",
+   "docs": 2021,
+   "institutions": 1
+  }
+ ],
+ "coverage_months": {
+  "first": "2022-01",
+  "last": "2026-06",
+  "count": 54
+ },
+ "stopped_early": {
+  "Chatham House": {
+   "last_month": "2025-05",
+   "months_behind": 13
+  }
+ },
+ "totals": {
+  "master": 16095,
+  "union": 19827,
+  "institutions": 10
+ }
+}
