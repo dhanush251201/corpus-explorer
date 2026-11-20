@@ -1,0 +1,22 @@
+# Caddy in front of the API: HTTPS on the public address, proxied to uvicorn on
+# localhost. setup.sh replaces __API_HOST__ with the server's address and installs
+# this as /etc/caddy/Caddyfile.
+#
+# The address may be a bare IP: Let's Encrypt issues IP certificates through its
+# "shortlived" profile (6-day certificates; Caddy renews them on its own). Without
+# the profile, Caddy would fall back to a self-signed certificate for an IP, which
+# browsers reject. Clients send no server name when connecting to an IP, hence
+# default_sni. Both settings also work unchanged for a domain name.
+{
+	default_sni __API_HOST__
+}
+
+__API_HOST__ {
+	tls {
+		issuer acme {
+			profile shortlived
+		}
+	}
+	encode zstd gzip
+	reverse_proxy 127.0.0.1:8000
+}

@@ -1,0 +1,27 @@
+# systemd unit for the Corpus Explorer API. Installed by setup.sh to
+# /etc/systemd/system/corpus-explorer.service.
+#
+# One uvicorn worker on localhost only; Caddy (see Caddyfile) is the public face.
+# One worker keeps the weekly statistics thread to a single copy.
+[Unit]
+Description=Corpus Explorer API (read-only FastAPI service)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=corpus
+Group=corpus
+WorkingDirectory=/opt/corpus-explorer/backend
+ExecStart=/opt/corpus-explorer/backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --proxy-headers
+Restart=on-failure
+RestartSec=5
+
+# The service reads its code and settings and writes only data/stats.json.
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/opt/corpus-explorer/backend/data
+
+[Install]
+WantedBy=multi-user.target

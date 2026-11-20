@@ -153,6 +153,41 @@ There is no authentication. If the API is reachable beyond the group, put basic
 auth or university SSO in front of it at the proxy — the service assumes everyone
 who can reach it may read the corpus.
 
+### The current deployment (AWS Lightsail)
+
+The API runs on a Lightsail instance in `us-east-2` (Ohio; the AWS Organization
+allows no other region): `corpus-explorer-api`, Ubuntu 24.04, 2 GB, static IP
+`corpus-explorer-ip` (3.131.4.95), ports 22/80/443 open. `deploy/` holds
+everything that runs there:
+
+| File | Installed as | Does |
+|---|---|---|
+| `deploy/setup.sh` | — | One-time setup of a fresh Ubuntu server |
+| `deploy/corpus-explorer.service` | `/etc/systemd/system/` | uvicorn, one worker, on 127.0.0.1:8000, as user `corpus` |
+| `deploy/Caddyfile` | `/etc/caddy/Caddyfile` | HTTPS on the public address (Let's Encrypt IP certificate) |
+| `deploy/update.sh` | — | Pull `main`, reinstall requirements, restart |
+
+The code lives in `/opt/corpus-explorer` (a clone of this repository) and its
+settings in `/opt/corpus-explorer/backend/.env` (mode 600): `MONGO_URI` of the
+read-only Atlas user and `ALLOW_ORIGINS=https://dhanush251201.github.io`.
+
+SSH in as `ubuntu` with the private key of the Lightsail key pair `corpus-explorer`.
+
+```bash
+# set up a new server (from the repository root, on your machine)
+ssh ubuntu@<ip> 'API_HOST=<ip> bash -s' < backend/deploy/setup.sh
+
+# deploy the latest main
+ssh ubuntu@<ip> bash /opt/corpus-explorer/backend/deploy/update.sh
+
+# logs
+ssh ubuntu@<ip> journalctl -u corpus-explorer -f
+```
+
+The server's IP address must be on the Atlas Network Access list. Moving to a
+domain name: point it at the static IP, re-run `setup.sh` with `API_HOST=<domain>`,
+then update `API_BASE` for the frontend.
+
 ---
 
 ## Statistics snapshot
