@@ -56,7 +56,10 @@ the two demo variables.
    [Steps](backend/README.md#running-on-a-server).
 2. **Frontend** — `npm run build`, set `apiBase` in `dist/config.js` to the
    backend's address, upload `dist/` to any static host.
-   [Steps](frontend/README.md#deploying).
+   [Steps](frontend/README.md#deploying). On GitHub Pages this is automatic:
+   `.github/workflows/pages.yml` publishes every push to `main`, with the API
+   address taken from the `API_BASE` repository variable.
+   [Steps](frontend/README.md#github-pages).
 
 Or put one web server in front of both: serve `dist/` and proxy `/api` to the
 backend, and leave `apiBase` empty.

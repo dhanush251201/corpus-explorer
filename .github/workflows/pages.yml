@@ -1,0 +1,59 @@
+# Builds frontend/ and publishes it to GitHub Pages:
+#   https://dhanush251201.github.io/corpus-explorer/
+#
+# Runs on every push to main that touches the frontend, and on demand from the
+# Actions tab ("Run workflow"). Pages serves the build as it is, so the backend's
+# address is baked in at build time from the repository variable API_BASE
+# (Settings -> Secrets and variables -> Actions -> Variables). Until it is set,
+# the page loads but has no API to call. See frontend/README.md#github-pages.
+name: Deploy frontend to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "frontend/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a newer push waits instead of cancelling one halfway.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+      - run: npm ci
+      - run: npm run build
+        env:
+          VITE_API_BASE: ${{ vars.API_BASE }}
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: frontend/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

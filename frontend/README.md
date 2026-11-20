@@ -94,6 +94,30 @@ Pages, Netlify, S3. Asset paths are relative, so it works at the site root or in
 a sub-directory (`https://server/explorer/`). No server-side routing is needed,
 because the app keeps its state in the query string.
 
+### GitHub Pages
+
+`.github/workflows/pages.yml` (at the repository root) builds this folder and
+publishes `dist/` to <https://dhanush251201.github.io/corpus-explorer/> on every
+push to `main` that touches `frontend/`, and on demand from the Actions tab
+(**Run workflow**).
+
+Pages serves the build as it is, so there is no `dist/config.js` to edit
+afterwards. The workflow sets the API address at build time instead, from the
+repository variable `API_BASE` (Settings → Secrets and variables → Actions →
+Variables), passed to the build as `VITE_API_BASE`:
+
+```bash
+gh variable set API_BASE --body "https://api.example.org"   # the backend's address
+gh workflow run pages.yml                                    # rebuild with it
+```
+
+Until `API_BASE` is set, the page loads but every request fails with
+"… answered … with a web page, not the API", because github.io has no `/api`.
+
+The backend must answer over **HTTPS**: Pages is HTTPS-only, and browsers block
+an HTTPS page from calling an `http://` address. Its `ALLOW_ORIGINS` must include
+`https://dhanush251201.github.io` — the origin alone, without `/corpus-explorer`.
+
 **Separate origins** (frontend and API on different hosts or ports): set
 `apiBase` in `dist/config.js` to the API's address, and add the frontend's
 address to the backend's `ALLOW_ORIGINS`.
